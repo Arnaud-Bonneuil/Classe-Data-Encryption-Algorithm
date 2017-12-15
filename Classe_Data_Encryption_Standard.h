@@ -59,8 +59,8 @@ Retour :
     aucun
 */
 void DEA_Appliquer_Aglorithme( const type_clef_des* const clef,
-							   const uint8_t* const message,
-							   uint8_t* const message_chiffre,
-							   int mode );
+                               const uint8_t* const message,
+                               uint8_t* const message_chiffre,
+                               int mode );
 
 #endif
